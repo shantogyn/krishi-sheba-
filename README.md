@@ -12,7 +12,7 @@ KRISHI SHEBA is a **C++ console-based smart agriculture management system** desi
 
 ## 🚀 Features:
 
-1. 🧱 **Soil Type** – Set the type of soil  
+1. 🧱 **Soil Type** – the type of soil and Recommend Crop  
 2. 💧 **Show Real-Time Moisture** – Simulate current soil moisture  
 3. 🛠️ **Set Moisture Threshold** – Control moisture sensitivity  
 4. ⚙️ **Toggle Auto Pump Control** – Auto irrigation control (simulated)  
@@ -34,7 +34,7 @@ KRISHI SHEBA is a **C++ console-based smart agriculture management system** desi
 ---
 
 ## 📷 Screenshot:
-![menu](Screenshot 2025-06-09 115148.jpg)
+![menu](Screenshot.jpg)
 
 ---
 
