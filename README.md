@@ -49,7 +49,7 @@ KRISHI SHEBA is a **C++ console-based smart agriculture management system** desi
 ## 👨‍💻 Team (Team_raw):
 
 - **Lead Developers:** Shanto Gyn (Lead Coder) and Ratul Hasan  
-- **Idea & Code Improvement Support:** Diponkor Pal, Ratul Hasan, Md. Arshad Biswas, Tamim
+- **Idea & Code Improvement Support:** Diponkor Pal, Md. Arshad Biswas Tamim
 
 ---
 
